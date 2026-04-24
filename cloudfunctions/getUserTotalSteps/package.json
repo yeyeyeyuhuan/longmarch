@@ -1,0 +1,14 @@
+{
+  "name": "getUserTotalSteps",
+  "version": "1.0.0",
+  "description": "获取用户总步数云函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "wx-server-sdk": "^3.0.1"
+  }
+}
